@@ -1,4 +1,4 @@
-# HostsLion
+# HostsLion 🦁
 
 A `hosts` file used to block out ads, trackers and malware specific to Czech websites.
 
@@ -14,7 +14,7 @@ Using a `hosts` file in your system can be easy. There are several ways how to d
 
 An easy way to add this `hosts` file to your computer is to use a manager app, such as [SwitchHosts!](https://oldj.github.io/SwitchHosts/) (available for Mac, Windows and Linux).
 
-You can copy and paste the contents of _HostsLion_ to your manager but you would miss on any potential future updates. A better way is to add our `hosts` file's URL so that your computer always stays up to date.
+You can copy and paste the contents of _HostsLion_ to your manager but you would miss on any potential future updates. A better way is to add our `hosts` file's [URL](https://raw.githubusercontent.com/henckellbach/hosts-lion/master/hosts) so that your computer always stays up to date.
 
 ### Manually editing your `hosts`
 
